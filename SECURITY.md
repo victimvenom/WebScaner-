@@ -1,4 +1,5 @@
 # Security Policy
+This tool is experimental and should only be used for legal purposes. We are not responsible for any use outside the bounds of the law.
 
 ## Supported Versions
 
@@ -13,9 +14,7 @@ currently being supported with security updates.
 | < 4.0   | :x:                |
 
 ## Reporting a Vulnerability
+Welcome! Your contribution to enhancing the security of our platform is greatly appreciated. We believe that collaborating with security researchers and users is the best way to ensure a safe digital environment for everyone. 
+ا
 
-Use this section to tell people how to report a vulnerability.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
